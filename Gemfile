@@ -24,6 +24,8 @@ source 'http://rubygems.org'
 #	gem 'rails_12factor', '0.0.2'
 #end
 
+ruby '2.2.2'
+
 gem 'rails',        '4.2.2'
 gem 'sass-rails',   '5.0.2'
 gem 'uglifier',     '2.5.3'
